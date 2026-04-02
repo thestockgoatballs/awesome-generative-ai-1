@@ -1249,6 +1249,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 # Video and Animation
 
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
+* [ClipSpeedAI](https://clipspeed.ai): AI-powered video clipping tool that automatically identifies the best highlight moments from long-form videos for content creators, streamers, and podcasters.
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
 * [Pyramid Flow](https://pyramid-flow.github.io/) 
